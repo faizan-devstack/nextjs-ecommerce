@@ -50,8 +50,8 @@ To get started locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/next-ecommerce-shopco.git
-   cd next-ecommerce-shopco
+   git clone https://github.com/YOUR_USERNAME/nextjs-ecommerce.git
+   cd nextjs-ecommerce
 
 
 2. **Install dependencies:**
