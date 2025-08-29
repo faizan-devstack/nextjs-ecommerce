@@ -1,5 +1,3 @@
-[![Shopco Screenshot](https://github.com/YOUR_USERNAME/repo-assets/blob/main/shopco-cover.png?raw=true)](https://YOUR_DEPLOYED_LINK.vercel.app/)
-
 # Shopco
 
 Shopco is a personal project where I built a modern, fully responsive e-commerce front-end based on a Figma design. The application is developed using **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI**, providing a scalable and optimized solution that follows industry best practices.
