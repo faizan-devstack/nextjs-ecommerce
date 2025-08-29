@@ -1,6 +1,6 @@
-# Shopco
+# Store
 
-Shopco is a personal project where I built a modern, fully responsive e-commerce front-end based on a Figma design. The application is developed using **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI**, providing a scalable and optimized solution that follows industry best practices.
+Store is a personal project where I built a modern, fully responsive e-commerce front-end based on a Figma design. The application is developed using **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI**, providing a scalable and optimized solution that follows industry best practices.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ This project showcases how I transformed a Figma design into a production-ready 
 
 ## Demo
 
-Check out the live demo: [Shopco Demo](https://YOUR_DEPLOYED_LINK.vercel.app/)
+Check out the live demo: [Store Demo](https://YOUR_DEPLOYED_LINK.vercel.app/)
 
 ## Features
 
@@ -87,7 +87,7 @@ To get started locally, follow these steps:
 ## Project Structure
 
 ```bash
-Shopco/
+Store/
 │
 ├── public/                # Static assets
 ├── src/
